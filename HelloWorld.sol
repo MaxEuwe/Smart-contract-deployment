@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract MztacatCommunity {
+contract TestToken {
     string public name = "TESTNAME";
     string public symbol = "TEST";
     uint8 public decimals = 18;
